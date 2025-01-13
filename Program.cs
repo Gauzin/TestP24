@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Git c'est malade!");
+Console.WriteLine("Git c'est fou raide!");
